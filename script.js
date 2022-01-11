@@ -1,1 +1,0 @@
-new Typewriter("#text").typeString("soon.").start();
